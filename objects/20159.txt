@@ -1,5 +1,5 @@
-id=942
-Iron Vein
+id=20159
+Iron Vein with Mined Ore
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -7,7 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.030000#biomes_3
+mapChance=0.000000#biomes_3
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -29,9 +29,18 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
+numSprites=2
 spriteID=1193
 pos=-4.000000,2.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=548
+pos=30.000000,-21.999996
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
