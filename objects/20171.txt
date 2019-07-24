@@ -1,5 +1,5 @@
-id=418
-Wolf
+id=20171
+Angry Wolf
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -7,7 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.400000#biomes_3
+mapChance=0.100000#biomes_3
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -214,7 +214,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,1.000000
+numUses=3,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=55
